@@ -1,2 +1,2 @@
 # devfolio-project-
-My personal portfolio website built with HTML, CSS, and JavaScript.
+My personal portfolio website built using React, Vite, HTML, and CSS.
